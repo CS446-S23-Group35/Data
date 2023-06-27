@@ -1,0 +1,11 @@
+ingredient,amount,unit,optional,notes
+oil,2,tbsp,f,
+bratwurst,2,lbs,f,
+onion,2,qty,f,chopped
+garlic,2,special qty,f,minced
+chicken stock,3,cup,f,
+paprika,1,tbsp,f,
+caraway seed,1,tbsp,f,
+sauerkraut,4,cup,f,drained
+dill,1,tbsp,f,chopped;fresh
+baguette,1,qty,f,
